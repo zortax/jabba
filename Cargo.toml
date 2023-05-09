@@ -2,6 +2,9 @@
 name = "jabba"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+description = "Async dependency injection framework"
+repository = "https://github.com/zortax/jabba"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
